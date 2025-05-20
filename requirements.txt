@@ -1,4 +1,4 @@
-streamlit==1.21.0
+streamlit
 opencv-python==4.5.5.64
 moviepy==1.0.3
 speechrecognition==3.8.1
